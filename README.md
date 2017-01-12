@@ -28,5 +28,6 @@ tasks.
 	$ cd rpi-setup
 	$ ./setup.sh
 
-You should execute this with a user havind ```sudo``` permissions and you will be asked for your password once.
+You should execute this with a user having ```sudo``` permissions and
+you will be asked for your password once.
  
