@@ -16,3 +16,17 @@ from nodesource repository. See more detail
 [here](https://github.com/nodesource/distributions).
 - vscode.sh: TODO - install Visual Studio Code (requires node) 
 
+## How to use
+
+This is easy, you need to clone this repo, execute the setup.sh in the 
+repo's main folder. 
+
+This will in turn execude scripts from the scripts.d folder for the various 
+tasks.
+
+	$ git clone https://github.com/abarbanell/rpi-setup.git
+	$ cd rpi-setup
+	$ ./setup.sh
+
+You should execute this with a user havind ```sudo``` permissions and you will be asked for your password once.
+ 
