@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "echo script - hello world"
+echo "echo script - your Raspberry architecture is: " `uname -m`
 
 

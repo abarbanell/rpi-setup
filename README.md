@@ -11,8 +11,7 @@ to my network, so here we have some automation.
 - ping.sh: fix the permissions on the ping command toallow
 all users to use the ping command. See description [on my
 blog](http://blog.abarbanell.de/linux/2017/01/11/ping/).
-- node.sh: TODO - install up to date node version, this will take time
-as it will have to built node from sources.
+- node.sh: install up to date node version, from nodesource ropository. 
 - vscode.sh: TODO - install Visual Studio Code (requires node) 
 
 
