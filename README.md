@@ -1,5 +1,5 @@
 # rpi-setup
-This repo collects a few scripts useful for setting up a aspberry Pi 
+This repo collects a few scripts useful for setting up a Raspberry Pi 
 with some useful components. 
 
 I hate repeating the same things again with every new Raspberry Pi added 
