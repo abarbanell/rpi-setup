@@ -14,7 +14,7 @@ blog](http://blog.abarbanell.de/linux/2017/01/11/ping/).
 - node.sh: install more up to date node version (v6.x) , 
 from nodesource repository. See more detail 
 [here](https://github.com/nodesource/distributions).
-- vscode.sh: TODO - install Visual Studio Code (requires node) 
+- vscode.sh: install Visual Studio Code (requires node) - I am following the instructions from [Scott Hanselman's blog](http://www.hanselman.com/blog/BuildingVisualStudioCodeOnARaspberryPi3.aspx) but with a more updated node version.
 
 ## How to use
 
